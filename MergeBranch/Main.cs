@@ -6,7 +6,7 @@ class Program
     {
         List<Animal> animals = new List<Animal>();
         
-        // animals.Add(new Cassowary());
+        animals.Add(new Cassowary());
         // animals.Add(new BulletAnt());
         animals.Add(new Chimpanzee());
         // animals.Add(new BlueRingedOctopus());
